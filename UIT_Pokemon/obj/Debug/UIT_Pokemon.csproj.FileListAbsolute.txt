@@ -1,0 +1,48 @@
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\bin\Debug\UIT_Pokemon.exe
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\bin\Debug\UIT_Pokemon.pdb
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.exe
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.pdb
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.About.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.KindGameOption.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.OptionControl.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.HighScore.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.InputName.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.LevelCharacter.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\UIT_Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.HelpIntroduction.resources
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.exe
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.pdb
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\bin\Debug\UIT_Pokemon.exe
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\bin\Debug\UIT_Pokemon.pdb
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.About.resources
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.Form1.resources
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.HelpIntroduction.resources
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.HighScore.resources
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.InputName.resources
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.KindGameOption.resources
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.LevelCharacter.resources
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.OptionControl.resources
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.Properties.Resources.resources
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\bin\Debug\UIT_Pokemon.exe.config
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\bin\Debug\UIT_Pokemon.exe
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\bin\Debug\UIT_Pokemon.pdb
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.About.resources
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.Form1.resources
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.HelpIntroduction.resources
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.HighScore.resources
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.InputName.resources
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.KindGameOption.resources
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.LevelCharacter.resources
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.OptionControl.resources
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.Properties.Resources.resources
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.exe
+C:\Users\Admin\Downloads\[Sharecode.vn] Full code game pikachu C#-20210424T135625Z-001\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\UIT_Pokemon\obj\Debug\UIT_Pokemon.pdb

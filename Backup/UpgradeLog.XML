@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UIT_Pokemon">
+</Property><Property Name="Solution File" Value="C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\Backup\UIT_Pokemon.sln">
+</Property><Property Name="Date" Value="22 Tháng Ba 2021">
+</Property><Property Name="Time" Value="14:56 CH">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="UIT_Pokemon.sln" Description="File successfully backed up as C:\Users\105\Desktop\[Sharecode.vn] Full code game pikachu C#\[Sharecode.vn] Full code game pikachu C#\Source-Pikachu\Backup\Backup\UIT_Pokemon.sln">
+</Event><Event ErrorLevel="2" Project="UIT_Pokemon" Source="UIT_Pokemon\UIT_Pokemon.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="UIT_Pokemon.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UIT_Pokemon.sln" Description="Converted">
+</Event></UpgradeLog>
